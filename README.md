@@ -30,10 +30,11 @@ By the end of the course, you will be able to perform meaningful data analyses a
 
 ## Repository Structure
 
+```
 ├── data/                 # Raw and processed datasets
 ├── notebook/              # R scripts for each lesson
 ├── README.md             # This file
-
+```
 
 ## How to Use This Repo
 
